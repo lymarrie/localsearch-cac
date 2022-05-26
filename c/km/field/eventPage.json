@@ -1,0 +1,19 @@
+{
+  "$id": "c_eventPage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Event Page",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "relatedFieldId": "c_events",
+          "type": "TWO_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

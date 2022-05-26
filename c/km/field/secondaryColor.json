@@ -1,0 +1,62 @@
+{
+  "$id": "c_secondaryColor",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Secondary Color",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Red",
+          "textValue": "RED"
+        },
+        {
+          "displayName": "Blue",
+          "textValue": "BLUE"
+        },
+        {
+          "displayName": "Green",
+          "textValue": "GREEN"
+        },
+        {
+          "displayName": "Orange",
+          "textValue": "ORANGE"
+        },
+        {
+          "displayName": "Yellow",
+          "textValue": "YELLOW"
+        },
+        {
+          "displayName": "Purple",
+          "textValue": "PURPLE"
+        },
+        {
+          "displayName": "Pink",
+          "textValue": "PINK"
+        },
+        {
+          "displayName": "Aqua",
+          "textValue": "AQUA"
+        },
+        {
+          "displayName": "Black",
+          "textValue": "BLACK"
+        },
+        {
+          "displayName": "Brown",
+          "textValue": "BROWN"
+        },
+        {
+          "displayName": "Maroon",
+          "textValue": "MAROON"
+        },
+        {
+          "displayName": "Sienna",
+          "textValue": "SIENNA"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

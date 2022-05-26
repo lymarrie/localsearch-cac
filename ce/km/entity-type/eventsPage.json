@@ -1,0 +1,7 @@
+{
+  "$id": "ce_eventsPage",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Events Page",
+  "pluralDisplayName": ""
+}

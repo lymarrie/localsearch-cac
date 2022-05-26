@@ -1,0 +1,23 @@
+{
+  "$id": "ce_site.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Site-default",
+  "entityType": "ce_site",
+  "fields": [
+    "c_APIKeys",
+    "c_displayPhotoGallery",
+    "c_displayStaticMap",
+    "c_enableConversionTracking",
+    "c_font",
+    "c_footer",
+    "c_googleAnalytics",
+    "c_header",
+    "c_primaryColor",
+    "c_publish",
+    "c_relatedPages",
+    "c_secondaryColor",
+    "logo",
+    "slug"
+  ],
+  "required": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "ce_photoGalleryPage.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Photo Gallery Page-default",
+  "entityType": "ce_photoGalleryPage",
+  "fields": [
+    "c_publish",
+    "c_relatedSite",
+    "c_site",
+    "photoGallery",
+    "richTextDescription",
+    "slug"
+  ],
+  "required": []
+}

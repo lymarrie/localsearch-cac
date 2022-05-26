@@ -1,0 +1,38 @@
+{
+  "$id": "c_font",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Font",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Arial",
+          "textValue": "ARIAL"
+        },
+        {
+          "displayName": "Verdana",
+          "textValue": "VERDANA"
+        },
+        {
+          "displayName": "Helvetica",
+          "textValue": "HELVETICA"
+        },
+        {
+          "displayName": "Tahoma",
+          "textValue": "TAHOMA"
+        },
+        {
+          "displayName": "Times New Roman",
+          "textValue": "TIMES_NEW_ROMAN"
+        },
+        {
+          "displayName": "Georgia",
+          "textValue": "GEORGIA"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

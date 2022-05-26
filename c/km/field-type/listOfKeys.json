@@ -1,0 +1,34 @@
+{
+  "$id": "c_listOfKeys",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "description": "",
+  "displayName": "List of Keys",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "key",
+          "displayName": "Key",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        },
+        {
+          "name": "value",
+          "displayName": "Value",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

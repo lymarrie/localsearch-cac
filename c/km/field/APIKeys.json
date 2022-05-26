@@ -1,0 +1,9 @@
+{
+  "$id": "c_APIKeys",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "API Keys",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "typeId": "c_listOfKeys"
+}

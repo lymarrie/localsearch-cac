@@ -1,0 +1,87 @@
+{
+  "$id": "ce_site",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_site",
+  "displayName": "Site",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "logo"
+        },
+        {
+          "id": "c_header"
+        },
+        {
+          "id": "c_footer"
+        },
+        {
+          "id": "c_primaryColor"
+        },
+        {
+          "id": "c_secondaryColor"
+        },
+        {
+          "id": "c_font"
+        },
+        {
+          "id": "c_enableConversionTracking"
+        },
+        {
+          "id": "c_googleAnalytics"
+        },
+        {
+          "id": "c_APIKeys"
+        },
+        {
+          "id": "c_relatedPages"
+        },
+        {
+          "id": "slug"
+        }
+      ]
+    },
+    {
+      "displayName": "Display Sections",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_displayPhotoGallery"
+        },
+        {
+          "id": "c_displayStaticMap"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "ce_contactUsPage.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Contact Us Page-default",
+  "entityType": "ce_contactUsPage",
+  "fields": [
+    "c_publish",
+    "c_relatedLocation",
+    "c_site",
+    "photoGallery",
+    "richTextDescription",
+    "slug"
+  ],
+  "required": []
+}

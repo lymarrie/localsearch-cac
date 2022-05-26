@@ -1,0 +1,20 @@
+{
+  "$id": "location.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Location-default",
+  "entityType": "location",
+  "fields": [
+    "c_APIKeys",
+    "c_displayPhotoGallery",
+    "c_displayStaticMap",
+    "c_enableConversionTracking",
+    "c_font",
+    "c_footer",
+    "c_googleAnalytics",
+    "c_header",
+    "c_metaDescription",
+    "c_primaryColor",
+    "c_secondaryColor"
+  ],
+  "required": []
+}

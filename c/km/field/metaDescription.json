@@ -1,0 +1,14 @@
+{
+  "$id": "c_metaDescription",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "One of the best pizzerias in town, located at 22 Orchard Street in the Lower East Side neighborhood of Manhattan, New York City. Swing by for a fresh slice!",
+  "displayName": "Meta Description",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

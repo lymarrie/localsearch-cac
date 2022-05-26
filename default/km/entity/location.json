@@ -1,0 +1,282 @@
+{
+  "$id": "location",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "22 Orchard Street",
+      "postalCode": "10002",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "c_displayPhotoGallery": true,
+    "c_displayStaticMap": true,
+    "c_font": "ARIAL",
+    "c_footer": [
+      {
+        "label": "Privacy Policy",
+        "uRL": "/policy"
+      }
+    ],
+    "c_googleAnalytics": [
+      {
+        "key": "Yext",
+        "value": "UA-110399590-1"
+      },
+      {
+        "key": "Client",
+        "value": "UA-96941330-8"
+      }
+    ],
+    "c_header": [
+      {
+        "label": "gallery",
+        "uRL": "#gallery"
+      },
+      {
+        "label": "about us",
+        "uRL": "#about"
+      },
+      {
+        "label": "Contact",
+        "uRL": "#contact"
+      }
+    ],
+    "c_metaDescription": "One of the best pizzerias in town, located in the Lower East Side, New York City.",
+    "c_primaryColor": "SIENNA",
+    "c_secondaryColor": "PURPLE",
+    "categoryIds": [
+      "1198"
+    ],
+    "description": "Luc\u0027s Pizza is a pizzeria at 22 Orchard Street in the Lower East Side neighborhood of Manhattan, New York City.\n\nFounded in 2016 by Luc Marrie, a New York native who learned to make pizza at the iconic Lombardi’s, Luc\u0027s Pizza is now a mainstay of the city known for its pizza offerings.",
+    "displayCoordinate": {
+      "latitude": 40.71537399624884,
+      "longitude": -73.99153145801927
+    },
+    "emails": [
+      "lucspizza@pizza.com"
+    ],
+    "facebookPageUrl": "https://www.facebook.com/LucsPizza/",
+    "hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "monday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "11:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "11:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "lucspizza",
+    "languages": [
+      "English"
+    ],
+    "logo": {
+      "image": {
+        "height": 231,
+        "thumbnails": [
+          {
+            "height": 231,
+            "url": "http://a.mktgcdn.com/p-sandbox/nEiENbHMgImGDx_XPutg_hTRQuQHB9b_sDUZWlnCRJI/231x231.jpg",
+            "width": 231
+          },
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/nEiENbHMgImGDx_XPutg_hTRQuQHB9b_sDUZWlnCRJI/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/nEiENbHMgImGDx_XPutg_hTRQuQHB9b_sDUZWlnCRJI/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/nEiENbHMgImGDx_XPutg_hTRQuQHB9b_sDUZWlnCRJI/231x231.jpg",
+        "width": 231
+      }
+    },
+    "mainPhone": "+12123343481",
+    "name": "Luc\u0027s Pizza",
+    "paymentOptions": [
+      "AMERICANEXPRESS",
+      "APPLEPAY",
+      "BITCOIN",
+      "CASH",
+      "MASTERCARD",
+      "PAYPAL",
+      "VISA"
+    ],
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1156,
+          "sourceUrl": "https://www.gannett-cdn.com/-mm-/95b3b21c18a2aad71af3b7b19dfcd47610827600/c\u003d0-106-2044-1262/local/-/media/USATODAY/USATODAY/2013/11/29//1385760323012-13-pauliegees3-PaulieGees.jpg?width\u003d2044\u0026height\u003d1156\u0026fit\u003dcrop\u0026format\u003dpjpg\u0026auto\u003dwebp",
+          "thumbnails": [
+            {
+              "height": 1156,
+              "url": "https://a.mktgcdn.com/p-sandbox/2QKLZqJhobpHTRzO704AZrwUHE0_9XhQgBEwX16mgns/2044x1156.jpg",
+              "width": 2044
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/2QKLZqJhobpHTRzO704AZrwUHE0_9XhQgBEwX16mgns/2044x1156.jpg",
+          "width": 2044
+        }
+      },
+      {
+        "image": {
+          "alternateText": "Luc\u0027s Pizza - cheese slice",
+          "height": 480,
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "http://a.mktgcdn.com/p-sandbox/RofJTL_WpJscQFrjtQJEFfOeT6wW7QoCKRT0kQFKAas/640x480.jpg",
+              "width": 640
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/RofJTL_WpJscQFrjtQJEFfOeT6wW7QoCKRT0kQFKAas/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/RofJTL_WpJscQFrjtQJEFfOeT6wW7QoCKRT0kQFKAas/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/RofJTL_WpJscQFrjtQJEFfOeT6wW7QoCKRT0kQFKAas/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/RofJTL_WpJscQFrjtQJEFfOeT6wW7QoCKRT0kQFKAas/640x480.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "alternateText": "Luc\u0027s Pizza - pepperoni slice",
+          "height": 480,
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "http://a.mktgcdn.com/p-sandbox/bSrBNdmPSSbWi_dMxmmQKeaRZ3tPwPqMVHCcFLazWnU/640x480.jpg",
+              "width": 640
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/bSrBNdmPSSbWi_dMxmmQKeaRZ3tPwPqMVHCcFLazWnU/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/bSrBNdmPSSbWi_dMxmmQKeaRZ3tPwPqMVHCcFLazWnU/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/bSrBNdmPSSbWi_dMxmmQKeaRZ3tPwPqMVHCcFLazWnU/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/bSrBNdmPSSbWi_dMxmmQKeaRZ3tPwPqMVHCcFLazWnU/640x480.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "alternateText": "Luc\u0027s Pizza - Sicilian slice",
+          "height": 480,
+          "thumbnails": [
+            {
+              "height": 480,
+              "url": "http://a.mktgcdn.com/p-sandbox/9lusvTV6BPkAAnEq7l-2N68jZrWp3MDHt2H9-DfBNxs/640x480.jpg",
+              "width": 640
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p-sandbox/9lusvTV6BPkAAnEq7l-2N68jZrWp3MDHt2H9-DfBNxs/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p-sandbox/9lusvTV6BPkAAnEq7l-2N68jZrWp3MDHt2H9-DfBNxs/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p-sandbox/9lusvTV6BPkAAnEq7l-2N68jZrWp3MDHt2H9-DfBNxs/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9lusvTV6BPkAAnEq7l-2N68jZrWp3MDHt2H9-DfBNxs/640x480.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 1200,
+          "sourceUrl": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_01/1659548/prince-st-pizza-ms-today-main-210109-02.jpg",
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "https://a.mktgcdn.com/p-sandbox/Q7oE0Que35k0Zin0teJsHLmoF7ise9MMETiUI_gf5NQ/2400x1200.jpg",
+              "width": 2400
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/Q7oE0Que35k0Zin0teJsHLmoF7ise9MMETiUI_gf5NQ/2400x1200.jpg",
+          "width": 2400
+        }
+      }
+    ],
+    "pickupAndDeliveryServices": [
+      "IN_STORE_PICKUP",
+      "DELIVERY"
+    ],
+    "routableCoordinate": {
+      "latitude": 40.71540809639857,
+      "longitude": -73.99161119922368
+    },
+    "slug": "xxx",
+    "timezone": "America/New_York",
+    "twitterHandle": "lucspizza",
+    "walkableCoordinate": {
+      "latitude": 40.71540199738533,
+      "longitude": -73.99158437713353
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

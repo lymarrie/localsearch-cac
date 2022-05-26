@@ -1,0 +1,7 @@
+{
+  "$id": "ce_aboutUsPage",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "About Us Page",
+  "pluralDisplayName": ""
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "ce_aboutUsPage.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "About Us Page-default",
+  "entityType": "ce_aboutUsPage",
+  "fields": [
+    "c_publish",
+    "c_relatedSite",
+    "c_site",
+    "photoGallery",
+    "richTextDescription",
+    "slug"
+  ],
+  "required": []
+}

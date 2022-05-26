@@ -1,0 +1,7 @@
+{
+  "$id": "ce_photoGalleryPage",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Photo Gallery Page",
+  "pluralDisplayName": ""
+}

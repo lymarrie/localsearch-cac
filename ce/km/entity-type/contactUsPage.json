@@ -1,0 +1,7 @@
+{
+  "$id": "ce_contactUsPage",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "",
+  "displayName": "Contact Us Page",
+  "pluralDisplayName": ""
+}
